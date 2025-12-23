@@ -87,6 +87,7 @@ Slicers for dynamic exploration (Industry, County, Contact Method, Employee)
 Use Case: Pipeline management, workload planning, follow-up prioritization, and risk identification.
 
  6. Key DAX Measures
+    
 Core analytical measures include:
 Total Clients
 Closed Clients
@@ -101,6 +102,7 @@ Number of Transactions
 All DAX expressions were written manually and stored within a dedicated Measure Table.
 
  7. Screenshots
+    
 "C:\Users\ADMIN\Desktop\FedhatracBIProject\Customer Sales Dashboard Snapshot.png"
 "C:\Users\ADMIN\Desktop\FedhatracBIProject\Customer Segmentation Insights Dashboard Snapshot.png"
 "C:\Users\ADMIN\Desktop\FedhatracBIProject\Customer Sales Dashboard Snapshot.png"
@@ -109,6 +111,7 @@ Dashboard 2 – Segmentation Insights
 Dashboard 3 – Client Pipeline
 
  8. Usage Instructions
+    
 To interact with the dashboards:
 Download the .pbix file from the repository.
 Open it using Microsoft Power BI Desktop.
@@ -116,10 +119,12 @@ Ensure the dataset .csv is in the same directory for automatic refresh.
 Use slicers and drill-down features for deeper exploration.
 
  9. Documentation
+     
 Detailed analysis is included in Individual_Report_Sylvia_Njane.pdf
 This README provides a technical summary and project guide
 
  10. Author
+     
 Sylvia Njane
 School of Information Systems & Technology
 DSA 3050 – Business Intelligence
