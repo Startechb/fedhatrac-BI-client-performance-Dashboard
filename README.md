@@ -126,5 +126,5 @@ This README provides a technical summary and project guide
  10. Author
      
 Sylvia Njane
-School of Information Systems & Technology
+School of Science  & Technology
 DSA 3050 – Business Intelligence
